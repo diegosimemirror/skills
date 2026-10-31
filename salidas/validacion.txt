@@ -1,0 +1,14 @@
+Validación ENAHO 2024
+Personas (residentes habituales): 108,664
+Personas representadas con facpob07: 34.15 millones
+Pobreza monetaria: 27.53 %
+Pobreza extrema: 5.50 %
+
+[OK] Llave de persona única
+[OK] La unión no perdió ni duplicó filas
+[OK] Todas las personas tienen pobreza de su hogar
+[OK] Los 25 departamentos tienen datos
+[OK] Residentes = 108,664 (INEI)
+[OK] Pobreza 27.53 % ≈ 27.6 % (INEI, tolerancia 0.1)
+
+RESULTADO: base válida

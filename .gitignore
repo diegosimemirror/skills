@@ -1,0 +1,9 @@
+# Microdatos del INEI y GeoJSON descargados: pesan y se bajan con las instrucciones del README
+datos/
+
+# Base limpia: se regenera con limpiar.py (validacion.txt sí se sube)
+salidas/*.parquet
+
+# Entorno virtual que crea uv en cada computadora
+.venv/
+__pycache__/
